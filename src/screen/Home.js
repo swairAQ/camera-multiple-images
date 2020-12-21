@@ -12,7 +12,7 @@ export default class Home extends Component {
             showCrousal: true,
         }
     }
-
+    // this.camera.stopPreview()
     render() {
         return (
             <View style={styles.subcontainer}>
